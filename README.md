@@ -1,2 +1,2 @@
 # ceic_spider
-抓取台网和微博地震震情数据
+基于Python3.8和pyquery获取台网和微博地震震情数据
